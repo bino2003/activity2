@@ -5,3 +5,4 @@ public interface OnAction {
     void onEdit(int Position);
 
 }
+
